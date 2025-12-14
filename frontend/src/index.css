@@ -1,0 +1,36 @@
+/* #login h2{
+    text-align: center;
+}
+#login #loginrow{
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+
+#header{
+    background: blue;
+    padding: 15px 0px;
+}
+#header h2{
+    text-align: center;
+    color: white;
+}
+#header button{
+    float: right;
+} */
+
+.login-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: #f5f6fa;
+}
+
+.login-card {
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.feed-container {
+  max-width: 600px;
+  margin-top: 20px;
+}
